@@ -1,3 +1,0 @@
-add_lunch_combo lineage_nicklaus-user
-add_lunch_combo lineage_nicklaus-userdebug
-add_lunch_combo lineage_nicklaus-eng
