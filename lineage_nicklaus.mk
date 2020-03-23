@@ -32,7 +32,7 @@ DEVICE_RESOLUTION := 720x1280
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := nicklaus
-PRODUCT_NAME := lineage_moto_e4_plus
+PRODUCT_NAME := lineage_nicklaus
 PRODUCT_BRAND := Motorola
 PRODUCT_MODEL := Moto E4 Plus
 PRODUCT_MANUFACTURER := Motorola
@@ -41,7 +41,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT=motorola/Nicklaus/Nicklaus:7.1.1/NMA26.42-113/133:user/release-keys \
     PRIVATE_BUILD_DESC="Nicklaus_retail-user 7.1.1 NMA26.42-11-3 release-keys"
 
-    #PRODUCT_NAME="Moto E4 Plus"
+    #PRODUCT_NAME="lineage_nicklaus"
 
 # TODO: what is this?
 
