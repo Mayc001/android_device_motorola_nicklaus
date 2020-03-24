@@ -24,7 +24,7 @@ PRODUCT_RELEASE_NAME := nicklaus
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/motorola/nicklaus/full_e4_plus.mk)
+$(call inherit-product, device/motorola/nicklaus/device.mk)
 
 TARGET_SCREEN_HEIGHT := 1280
 TARGET_SCREEN_WIDTH := 720
