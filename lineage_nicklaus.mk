@@ -32,7 +32,7 @@ DEVICE_RESOLUTION := 720x1280
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := nicklaus
-PRODUCT_NAME := lineage_moto_e4_plus
+PRODUCT_NAME := lineage_nicklaus
 PRODUCT_BRAND := Motorola
 PRODUCT_MODEL := Moto E4 Plus
 PRODUCT_MANUFACTURER := Motorola
