@@ -41,7 +41,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT=motorola/Nicklaus/Nicklaus:7.1.1/NMA26.42-113/133:user/release-keys \
     PRIVATE_BUILD_DESC="Nicklaus_retail-user 7.1.1 NMA26.42-11-3 release-keys"
 
-    #PRODUCT_NAME="Moto E4 Plus"
+    #PRODUCT_NAME="nicklaus"
 
 # TODO: what is this?
 
